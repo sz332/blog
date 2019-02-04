@@ -1,0 +1,3 @@
+Több, mint 20 év telt el azóta, hogy megírtam az első olyan programom, mellyel pénzt kerestem. Azóta elvégeztem egy egyetemet, majd több különböző területen dolgoztam: mint tesztelő, mint embedded fejlesztő, mint asztali és webes alkalmazás fejlesztő, később pedig mint SCRUM master. Idéntől  hivatalosan is software architektként tevékenykedek, melynek során rengeteg új kihívással szembesültem. A programozási feladatok háttérbe szorultak; inkább szervezéssel, tervezéssel, és mentorálással és prototipizálással foglalkozom.
+
+A mérnöki szakma folyamatos tanulást, önképzést kíván. Ebben a blogban az eddig tapasztalataimat szeretném összefoglalni, valamint olyan témákat szeretnék boncolgatni, mely akár junior, akár senior kollégáim számára érdekesek lehetnek. 
